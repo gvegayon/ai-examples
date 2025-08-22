@@ -5,6 +5,9 @@ This repository is a collection of real-life examples using AI. These are intend
 ## Included examples
 
 - [New epiworld model](./human/new_epiworld_model.md) (human).
+- [Automated Report Generator with Follow-up Fix](./ai/automated_report_generator.md) (AI).
+- [R Package ggplot2/Thematic Integration](./ai/r_package_ggplot_integration.md) (AI).
+- [Exposing C++ Function to R Interface](./ai/cpp_function_exposure_to_r.md) (AI).
 
 ## Workflow
 
