@@ -25,7 +25,11 @@
 
 ## What was learned
 
-[Description of the insights gained from the experience, including any unexpected outcomes or valuable lessons. This should be organized in two bits mostly: what worked well, and what did not.]
+[Description of the insights gained from the experience, including any unexpected outcomes or valuable lessons. This should be organized in two parts:]
+
+**What worked well**: [Describe what the AI did successfully, what capabilities it demonstrated effectively, etc.]
+
+**What did not work well**: [Focus on actual mistakes, glitches, or things the AI missed that required human intervention to fix. Look for evidence in user commits that modified the AI's work, user comments pointing out issues, follow-up issues/PRs addressing problems, or specific errors in the AI's approach. If there were no significant issues, it's acceptable to state that or mention minor areas for improvement. Avoid describing task complexity or scope as problems.]
 
 ## References
 

@@ -7,3 +7,15 @@
 - Whenever you are adding a new example, make sure to fill out all the metadata fields in the template, including the authorship.
 
 - Examples created by you should be added to the `./ai` directory. Everytime that you add a new example, ensure that you update the list of contents under `./ai/README.md`. and `./README.md`, adding a link to the new example.
+
+## Guidelines for Creating Examples
+
+- **Date formatting**: Always use the `date` command to get the current date and format it as YYYY-MM-DD in the metadata section. Do not use arbitrary dates.
+
+- **"What did not work well" section**: This section should focus on actual mistakes, glitches, or things the AI missed that required human intervention to fix. Look for evidence of this in:
+  - User commits that modified the AI's work
+  - User comments that pointed out issues or corrections needed
+  - Follow-up issues or PRs that addressed problems in the AI's implementation
+  - Specific errors or misunderstandings in the AI's approach
+  
+  Avoid describing task complexity, scope, or normal development considerations as "what did not work well." Having no significant issues is perfectly acceptable for straightforward tasks.
