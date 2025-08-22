@@ -27,7 +27,7 @@
 
 [Description of the insights gained from the experience, including any unexpected outcomes or valuable lessons. This should be organized in two parts:]
 
-**What worked well**: [Describe what the AI did successfully, what capabilities it demonstrated effectively, etc.]
+**What worked well**: [Describe factors from the user, repository, or environment that enabled success, such as clear instructions provided by the user, good examples available in the repository, well-organized repository structure, clear documentation (like copilot-instructions.md), the task being well-suited to AI capabilities, or effective feedback processes. Focus on what external factors set up the AI for success rather than AI capabilities themselves.]
 
 **What did not work well**: [Focus on actual mistakes, glitches, or things the AI missed that required human intervention to fix. Look for evidence in user commits that modified the AI's work, user comments pointing out issues, follow-up issues/PRs addressing problems, or specific errors in the AI's approach. If there were no significant issues, it's acceptable to state that or mention minor areas for improvement. Avoid describing task complexity or scope as problems.]
 

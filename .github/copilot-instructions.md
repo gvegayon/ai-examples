@@ -12,6 +12,16 @@
 
 - **Date formatting**: Always use the `date` command to get the current date and format it as YYYY-MM-DD in the metadata section. Do not use arbitrary dates.
 
+- **"What worked well" section**: This section should focus on factors from the user, repository, or environment that enabled success, such as:
+  - Clear instructions or requirements provided by the user
+  - Good examples available in the repository for reference
+  - Well-organized repository structure
+  - Clear and comprehensive documentation (like copilot-instructions.md)
+  - The task being well-suited to AI capabilities (common in training data)
+  - Effective feedback processes and communication
+  
+  Avoid focusing primarily on AI capabilities or performance. Instead, highlight what external factors set up the AI for success.
+
 - **"What did not work well" section**: This section should focus on actual mistakes, glitches, or things the AI missed that required human intervention to fix. Look for evidence of this in:
   - User commits that modified the AI's work
   - User comments that pointed out issues or corrections needed
