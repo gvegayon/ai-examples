@@ -22,6 +22,28 @@ Before you add a new example, please create a new GitHub issue and describe your
 
 4. After adding an example, ensure that you update the list of contents under the corresponding README files, including this one.
 
+## How the AI reports work
+
+The core idea is to provide the AI with relevant context and information so that it can generate accurate and useful reports. This is achieved through a structured input process:
+
+```mermaid
+graph TB
+    D[Copilot AI<br>Process information]
+    subgraph context[Contextual Input]
+        A[copilot-instructions.md]
+        B[template.md]
+        C[human example]
+    end
+
+    Q[Query]-->|Detailed Ask| D
+
+    A -->|Fed in| D
+    B -->|Fed in| D
+    C -->|Fed in| D    
+    D -->|Generates| E[AI example]
+```
+
+Most of it is specified in the [`copilot-instructions.md`](./.github/copilot-instructions.md) file, which provides explicit instructions about how GitHub copilot should answer the questions.
 
 ## AI disclosure
 
