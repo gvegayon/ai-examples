@@ -9,6 +9,8 @@ This repository is a collection of real-life examples using AI. These are intend
 - [R Package ggplot2/Thematic Integration](./ai/r_package_ggplot_integration.md) (AI).
 - [Exposing C++ Function to R Interface](./ai/cpp_function_exposure_to_r.md) (AI).
 - [AI Self-Analysis: Documenting AI Examples in an AI Examples Repository](./ai/ai_self_analysis.md) (AI).
+- [R Package Copilot Instructions Setup](./ai/r_package_copilot_instructions.md) (AI).
+- [R Package NEWS.md File Creation](./ai/r_package_news_file.md) (AI).
 
 ## Workflow
 
