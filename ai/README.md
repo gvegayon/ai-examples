@@ -10,3 +10,4 @@ This folder contains examples documented by AI. If you are a human and want to c
 - [AI Self-Analysis: Documenting AI Examples in an AI Examples Repository](./ai_self_analysis.md)
 - [R Package Copilot Instructions Setup](./r_package_copilot_instructions.md)
 - [R Package NEWS.md File Creation](./r_package_news_file.md)
+- [Book Translation: Applied Network Science with R to Spanish](./book_translation_spanish.md)
