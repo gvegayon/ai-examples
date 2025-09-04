@@ -45,7 +45,18 @@ graph TB
     D -->|Generates| E[AI example]
 ```
 
-Most of it is specified in the [`copilot-instructions.md`](./.github/copilot-instructions.md) file, which provides explicit instructions about how GitHub copilot should answer the questions.
+Most of it is specified in the [`copilot-instructions.md`](./.github/copilot-instructions.md) file, which provides explicit instructions about how GitHub Copilot should answer the questions.
+
+## General recommendations for using AI
+
+- Contrary to folk tales, generative **AI is bad for new projects** (in general), as it gets **better if you have examples**.
+- Use the `copilot-instructions.md` document.
+- Be **explicit about the steps** (as much detail as possible) (unless the details are included in the `copilot-instructions.md`!)
+- Tell it what **should not** be done.
+- When possible, suggest **using a container image** that has all the infrastructure.
+- You can give contextual information via URLs!
+- **Examples are important**: you can reference them.
+- Ensure you have tests that the AI can see.
 
 ## AI disclosure
 
