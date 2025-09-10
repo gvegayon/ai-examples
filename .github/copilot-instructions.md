@@ -12,6 +12,16 @@
 
 - **Date formatting**: Always use the `date` command to get the current date and format it as YYYY-MM-DD in the metadata section. Do not use arbitrary dates.
 
+- **Overall Result metadata**: Always include the "Overall Result" field in the metadata section with one of three values:
+  - "successful": The AI completed the task as requested with minimal or no human intervention needed
+  - "partial success": The AI completed most of the task but required significant human intervention or iteration
+  - "failure": The AI did not meet the requirements or the solution was not accepted/merged
+
+- **Color coding and visual indicators**: When listing examples in README files, use emojis to indicate success levels:
+  - ✅ for "successful" results
+  - ⚠️ for "partial success" results  
+  - ❌ for "failure" results
+
 - **"What worked well" section**: This section should focus on factors from the user, repository, or environment that enabled success, such as:
   - Clear instructions or requirements provided by the user
   - Good examples available in the repository for reference

@@ -6,6 +6,7 @@
 - **Date**: [Date in format YYYY-MM-DD]
 - **AI Model**: [AI Model Used]
 - **Type of application**: [Bug fix, feature addition, write text, re-factoring, etc.]
+- **Overall Result**: [successful | partial success | failure]
 
 ## Overview
 
