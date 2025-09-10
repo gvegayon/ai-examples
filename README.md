@@ -5,13 +5,14 @@ This repository is a collection of real-life examples using AI. These are intend
 ## Included examples
 
 - [New epiworld model](./human/new_epiworld_model.md) (human).
-- [Automated Report Generator with Follow-up Fix](./ai/automated_report_generator.md) (AI).
-- [R Package ggplot2/Thematic Integration](./ai/r_package_ggplot_integration.md) (AI).
-- [Exposing C++ Function to R Interface](./ai/cpp_function_exposure_to_r.md) (AI).
-- [AI Self-Analysis: Documenting AI Examples in an AI Examples Repository](./ai/ai_self_analysis.md) (AI).
-- [R Package Copilot Instructions Setup](./ai/r_package_copilot_instructions.md) (AI).
-- [R Package NEWS.md File Creation](./ai/r_package_news_file.md) (AI).
-- [Book Translation: Applied Network Science with R to Spanish](./ai/book_translation_spanish.md) (AI).
+- ✅ [Automated Report Generator with Follow-up Fix](./ai/automated_report_generator.md) (AI).
+- ✅ [R Package ggplot2/Thematic Integration](./ai/r_package_ggplot_integration.md) (AI).
+- ✅ [Exposing C++ Function to R Interface](./ai/cpp_function_exposure_to_r.md) (AI).
+- ✅ [AI Self-Analysis: Documenting AI Examples in an AI Examples Repository](./ai/ai_self_analysis.md) (AI).
+- ✅ [R Package Copilot Instructions Setup](./ai/r_package_copilot_instructions.md) (AI).
+- ✅ [R Package NEWS.md File Creation](./ai/r_package_news_file.md) (AI).
+- ✅ [Book Translation: Applied Network Science with R to Spanish](./ai/book_translation_spanish.md) (AI).
+- ❌ [When CI Fix Becomes Complete Overhaul: A Scope Creep Example](./ai/ci_scope_creep_failure.md) (AI).
 
 ## Workflow
 
