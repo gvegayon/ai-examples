@@ -11,3 +11,4 @@ This folder contains examples documented by AI. If you are a human and want to c
 - [R Package Copilot Instructions Setup](./r_package_copilot_instructions.md)
 - [R Package NEWS.md File Creation](./r_package_news_file.md)
 - [Book Translation: Applied Network Science with R to Spanish](./book_translation_spanish.md)
+- [When CI Fix Becomes Complete Overhaul: A Scope Creep Example](./ci_scope_creep_failure.md)
