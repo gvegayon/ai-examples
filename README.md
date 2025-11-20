@@ -12,7 +12,12 @@ This repository is a collection of real-life examples using AI. These are intend
 - ✅ [R Package Copilot Instructions Setup](./ai/r_package_copilot_instructions.md) (AI).
 - ✅ [R Package NEWS.md File Creation](./ai/r_package_news_file.md) (AI).
 - ✅ [Book Translation: Applied Network Science with R to Spanish](./ai/book_translation_spanish.md) (AI).
+- ✅ [Fix rewire_degseq: Network Edge Rewiring Logic Enhancement](./ai/epiworld_rewire_degseq_fix.md) (AI).
+- ✅ [Fix Windows R CMD Check: Diagram File References and Build Artifacts](./ai/epiworldr_windows_check_fix.md) (AI).
+- ✅ [Create Measles Package as epiworldR Spinoff](./ai/measles_package_spinoff.md) (AI).
+- ✅ [Support Markov Order > 1 in defm_motif_parser](./ai/barry_markov_order_enhancement.md) (AI).
 - ❌ [When CI Fix Becomes Complete Overhaul: A Scope Creep Example](./ai/ci_scope_creep_failure.md) (AI).
+- ❌ [Migrate Documentation from MkDocs to Zensical: An Incomplete Migration](./ai/epiworld_zensical_migration_failure.md) (AI).
 
 ## Workflow
 
